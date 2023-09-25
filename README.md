@@ -24,7 +24,9 @@ github
 - 수업 프로그램 
 
 
-visual studio code 
+visual studio code
+
+ctrl + s 저장
 
 - 원격 조종 사이트
 
