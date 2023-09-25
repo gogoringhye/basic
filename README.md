@@ -23,3 +23,5 @@ jung963852! 비번
 (html->basic 선택)
 
 (주소 basic 슬래시 앞부분 suuneeeee.dothome.co.kr로 바꾸고 페이지 소스 보기하면 볼 수 있음)
+
+ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html
