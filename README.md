@@ -8,8 +8,9 @@
 
 20230925
 
-filezill
+filezill(선생님 자료, 코드 확인 가능한 곳)
 
+이용 방법
 
 suuneeeee.dothome.co.kr 호스트
 
