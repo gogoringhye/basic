@@ -6,6 +6,21 @@
 
 🧟‍♀️
 
+
+도서 열람 사이트
+The book(코딩자율학습, 리액트를 다루는 기술 등)
+
+
+메모 사이트
+github 
+
+
+수업 프로그램 
+visual studio code 
+
+원격 조종 사이트
+AnyDesk 
+
 20230925
 
 filezill(선생님 자료, 코드 확인 가능한 곳)
