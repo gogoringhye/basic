@@ -12,5 +12,12 @@ filezill
 
 
 suuneeeee.dothome.co.kr 호스트
+
+
 suuneeeee 사용자명
+
+
 jung963852! 비번
+
+
+(html->basic 선택)
