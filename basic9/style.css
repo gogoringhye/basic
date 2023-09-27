@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* 반드시 세미콜론 적어주기 */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.치료::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+/* 항상 contnet가 있어야 존재함, 인라인 요소라서 block이 와야함 */
+
+.전체 {
+    width: 1000px;
+    background-color: #03b3df;
+    margin: auto;
+    margin-top: 30px;
+}
+
+/* 그냥 마진은 모든 값을 가지고 있어서 마진 탑을 뒤에 써줘야 마진탑이 적용됨 */
+
+.전체 .첫번째 {
+    background-color: #fff346eb;
+    padding: 20px;
+}
+
+.전체 .첫번째 .자식 {
+    float: left;
+    background-color: #b2cc52;
+    height: 200px;
+    width: 24.25%;
+    margin-right: 1%;
+}
+
+.전체 .첫번째 .자식.자식1 {
+    position: relative;
+}
+
+/* position: relative; 아무런 영향을 주지 않고 하만 잡아줌(자식1이 하라는 absolute[죽음]의 기준) */
+
+/* overflow: hidden 자식1 뱃속에 있는게 자신보다 넘치면 안보이게 하라*/
+.전체 .첫번째 .자식.자식1 .상 {
+    background-color: #83a191;
+    width: 100%;
+    /* 부모의 넓이를 100% 차지함 */
+    height: 100%;
+    /* 부모의 높이를 100% 차지함 */
+    background-image: url(https://img.megabox.co.kr/SharedImg/2023/09/06/WtNcpHFQ7YY7Ojx2EhJq7GjP0naM7PP3_380.jpg);
+    background-size: cover;
+    background-position: center
+}
+
+/* %는 부모를 따라감 */
+.전체 .첫번째 .자식.자식1 .하 {
+    background-color: #2e242a;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-image: url(https://img.megabox.co.kr/SharedImg/2023/09/06/JxRUFBNrsEN7ExRcmO4MXps9gYCGCJvy_380.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.3s;
+    /* 초의 값을 여기 줘야 마우스(hover)를 내릴때도 시간 값이 적용됨, 마우스를 올릴때만 적용하고 싶으면 아래 hover에 줘도 됨 */
+}
+
+.전체 .첫번째 .자식.자식1 .하:hover
+
+/* 마우스를 올리면 */
+    {
+    opacity: 0;
+}
+
+.전체 .첫번째 .자식.자식2 {
+    position: relative;
+    background-image: url(https://img.megabox.co.kr/SharedImg/2023/08/31/WIjh7NFndxzw35oD0ljhgq4aRhd1cQ9K_380.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+/* 자식2에게 변화를 주지 않기 위해 position: relative; 사용 */
+
+.전체 .첫번째 .자식.자식2 .상
+
+/* 상은 부모의 넓이를 따라가게 태어나있음 */
+    {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    position: absolute
+        /* 다이--> 자식의 공간만큼 넓이를 차지, absolute되는 순간 넓이를 다시 설정해줘야함 */
+    ;
+    left: 100%;
+    /* (왼쪽의 공간이 생겼으므로 결국 오른쪽으로 이동함) */
+    top: 0;
+    /* 포지션으로부터 0 */
+    background-image: url(https://img.megabox.co.kr/SharedImg/2023/08/31/CbcbfcwkekRNdPjSSv5T8GEGgMNwsSgV_380.jpg);
+    background-size: cover;
+    /* cover: 첫번째, 넓이 기준, 나중에 밑 처리 */
+    background-position: center;
+    /* position(?)은 x, y 값을 가지기 때문에 center center 적어야하지만 동일해서 center만 적어줌 */
+}
+
+.전체 .첫번째 .자식.자식2:hover .상 {
+    left: 0;
+    transition: 0.3s;
+}
+
+.전체 .첫번째 .자식.자식3 {
+    position: relative;
+    overflow: hidden;
+}
+
+.전체 .첫번째 .자식.자식3 .yt {
+    width: 100%;
+    /* 기준이 되어주는 것의 100% */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1.4);
+}
+
+/* transform:translate(x값, y값);// %의 기준이 자기자신임, (왼쪽 위쪽으로 옮겨서 제자리로 맞춰줌) */
+
+/* scale 중심에서부터 커짐, 1이 100% */
+
+
+.전체 .첫번째 .자식4 {
+    margin-right: 0;
+}
+
+/* 수정한건 아래쪽에 적어야 힘이 쎄짐 */
+
+.전체 .두번째 {
+    background-color: #fb2bff;
+}
+
+.전체 .두번째 .자식 {
+    background-color: #FBF0B2;
+}
+
+.전체 .두번째 .자식.자식1 {}
+
+.전체 .두번째 .자식.자식2 {}
+
+.전체 .두번째 .자식.자식3 {}
+
+.전체 .두번째 .자식.자식4 {}
