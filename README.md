@@ -59,7 +59,7 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html
 
 chrome 웹스토어(번역 다운)
 ChatGPT 
-w3school 검색(ex.color)
+w3school 검색(ex.color) ----> 웹표준
 
 
 ![image](https://github.com/gogoringhye/basic/assets/145514996/1d1090ca-f5e6-497c-9275-2372c71b67d0)
