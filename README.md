@@ -55,3 +55,17 @@ jung963852! 비번
 ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html
 
 ! 안될때 html5
+
+
+
+
+
+
+
+![image](https://github.com/gogoringhye/basic/assets/145514996/1d1090ca-f5e6-497c-9275-2372c71b67d0)
+
+
+
+
+![image](https://github.com/gogoringhye/basic/assets/145514996/5731a56c-c901-488e-a979-b863f6be864a)
+
