@@ -23,6 +23,7 @@ ctrl + s 저장
 
 ### 수업 프로그램 
 * visual studio code
+* Figma
 
 ### 원격 조종 사이트 
 * AnyDesk 
