@@ -20,6 +20,10 @@
 3. 모두의 HTML5 & CSS3
 4. 모두의 SQL
 
+* w3school
+  
+검색(ex.color) ----> 웹표준
+  
 ### 메모 사이트
 * github 
 
@@ -52,8 +56,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
   
 ### ChatGPT 
 
-w3school 검색(ex.color) ----> 웹표준
-gsap
+### gsap
+
 
 
 
