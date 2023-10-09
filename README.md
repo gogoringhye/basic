@@ -11,7 +11,6 @@ PHP + mysql react, 자바스크립트(매우 중요)
 
 관련 자격증(웹디자인기능사, GTQi
 
-ctrl + s 저장
 
 ## 수업 사이트 정리
 
@@ -22,7 +21,7 @@ ctrl + s 저장
 * github 
 
 ### 수업 프로그램 
-* visual studio code
+* visual studio code(ctrl + s 저장)
 * Figma
 
 ### 원격 조종 사이트 
