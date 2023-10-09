@@ -8,30 +8,21 @@
 
 PHP + mysql react, 자바스크립트(매우 중요)
 
-
-- 도서 열람 사이트
-
-
-The book(코딩자율학습, 리액트를 다루는 기술 등)
-
-
-- 메모 사이트
-
-
-github 
-
-
-- 수업 프로그램 
-
-
-visual studio code
-
 ctrl + s 저장
 
-- 원격 조종 사이트
+## 수업 사이트 정리
 
+### 도서 열람 사이트
+* The book(코딩자율학습, 리액트를 다루는 기술 등)
 
-AnyDesk 
+### 메모 사이트
+* github 
+
+### 수업 프로그램 
+* visual studio code
+
+### 원격 조종 사이트 
+* AnyDesk 
 
 20230925
 
