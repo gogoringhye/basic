@@ -30,7 +30,9 @@ ctrl + s 저장
 이용 방법
 
 호스트: suuneeeee.dothome.co.kr 
+
 사용자명: suuneeeee 사용자명
+
 비번: jung963852! 비번
 
 (html->basic 선택)
