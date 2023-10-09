@@ -59,11 +59,6 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### gsap
 
 
-### 파비콘 이미지
-
-https://www.favicon-generator
-
-
 
 
 학원 카페 가입--> 취업 정보 확인 가능
