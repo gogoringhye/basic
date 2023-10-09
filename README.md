@@ -59,10 +59,9 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### gsap
 
 
+### 파비콘 이미지
 
-
-
-https://www.favicon-generator(파비콘 여러 이미지)
+https://www.favicon-generator
 
 
 
