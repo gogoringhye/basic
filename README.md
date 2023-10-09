@@ -45,13 +45,13 @@
 
 (주소 basic 슬래시 앞부분 suuneeeee.dothome.co.kr로 바꾸고 페이지 소스 보기하면 볼 수 있음)
 
-ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html
+ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
-! 안될때 html5
+### 크롬 번역기 다운
+* chrome 웹스토어
+  
+### ChatGPT 
 
-
-chrome 웹스토어(번역 다운)
-ChatGPT 
 w3school 검색(ex.color) ----> 웹표준
 gsap
 
