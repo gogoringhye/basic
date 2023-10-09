@@ -18,6 +18,10 @@ PHP + mysql react, 자바스크립트(매우 중요)
 * The book
 
 (교재추천)
+1. 코딩 자율학습 HTML + CSS + 자바스크립트
+2. 리액트를 다루는 기술 [개정판]
+3. 모두의 HTML5 & CSS3
+4. 모두의 SQL
 
 ![image](https://github.com/gogoringhye/basic/assets/145514996/f4eeb702-55ad-4ce1-873d-35652ed9d016), ![image](https://github.com/gogoringhye/basic/assets/145514996/b7175c63-ab71-4a2e-a52b-fa65544d129d), ![image](https://github.com/gogoringhye/basic/assets/145514996/1d1090ca-f5e6-497c-9275-2372c71b67d0), ![image](https://github.com/gogoringhye/basic/assets/145514996/5731a56c-c901-488e-a979-b863f6be864a)
 
