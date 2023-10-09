@@ -24,20 +24,14 @@ ctrl + s 저장
 ### 원격 조종 사이트 
 * AnyDesk 
 
-20230925
-
-filezill(선생님 자료, 코드 확인 가능한 곳)
+### 선생님 자료 백업 사이트(코드 확인 가능)
+* filezill
 
 이용 방법
 
-suuneeeee.dothome.co.kr 호스트
-
-
-suuneeeee 사용자명
-
-
-jung963852! 비번
-
+호스트: suuneeeee.dothome.co.kr 
+사용자명: suuneeeee 사용자명
+비번: jung963852! 비번
 
 (html->basic 선택)
 
