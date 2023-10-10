@@ -61,3 +61,5 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### jQuery CDN
 
 ### Material Design UI Kit Figma, ios 15 ui kit for figma 검색 후 다운(피그마)
+
+* 라이브 안열릴시 셋핑에 들어가서 local 치고 use 체크하기
