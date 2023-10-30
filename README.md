@@ -72,6 +72,12 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### swiperjs
 ###slick cdn
 
+###3D 사이트
 
+- spline
 
-clb로 가져오기
+- spline docs
+
+- mixamo
+
+- sketchfab(clb로 가져오기)
