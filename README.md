@@ -71,14 +71,15 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 * 라이브 안열릴시 셋핑에 들어가서 local 치고 use 체크하기
 
 ### slick
-### swiperjs
-###slick cdn
+### slick cdn
 
-###codepen
+### swiper
 
-###Favicon & App Icon Generator(파비콘 사이즈 조절)
+### codepen
 
-###3D 사이트
+### Favicon & App Icon Generator(파비콘 사이즈 조절)
+
+### 3D 사이트
 
 - spline
 
