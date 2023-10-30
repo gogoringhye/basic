@@ -53,8 +53,12 @@
 
 ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
+### awwwards(다른 사람 시안)
+
 ### 크롬 번역기 다운
 * chrome 웹스토어
+
+### 한글 Lorem Ipsum
   
 ### ChatGPT 
 
@@ -80,6 +84,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### EntityCode(특수기호)
 
 ### Favicon & App Icon Generator(파비콘 사이즈 조절)
+
+### netlify(호스팅 사이트)
 
 ### 3D 사이트
 
