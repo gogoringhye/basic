@@ -89,6 +89,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
 ### netlify(호스팅 사이트)
 
+### figma(시안, 일러와 유사함)
+
 ### 3D 사이트
 
 - spline
