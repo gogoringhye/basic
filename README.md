@@ -77,6 +77,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
 ### codepen
 
+### EntityCode(특수기호)
+
 ### Favicon & App Icon Generator(파비콘 사이즈 조절)
 
 ### 3D 사이트
