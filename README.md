@@ -23,6 +23,8 @@
 * w3school
   
 검색(ex.color) ----> 웹표준
+
+* MDN Web Docs
   
 ### 메모 사이트
 * github 
@@ -71,6 +73,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 ### slick
 ### swiperjs
 ###slick cdn
+
+###codepen
 
 ###3D 사이트
 
