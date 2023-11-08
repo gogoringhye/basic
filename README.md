@@ -81,7 +81,8 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
 ### codepen
 
-### rgbKineticSlider(codepen에 있는 유형)
+### rgbKineticSlider(codepen demo에 있는 유형, github)
+https://github.com/hmongouachon/rgbKineticSlider
 
 ### EntityCode(특수기호)
 
