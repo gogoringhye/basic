@@ -111,6 +111,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 (ai 사이트)
 
 - Luma AI
+- turbosquid
 ### BOXY SVG
 
 ### cutthecode
