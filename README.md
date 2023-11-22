@@ -124,3 +124,5 @@ https://github.com/hmongouachon/rgbKineticSlider
 ### threejs
 
 ### caniuse
+
+- locomotive js
