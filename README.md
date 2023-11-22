@@ -126,3 +126,4 @@ https://github.com/hmongouachon/rgbKineticSlider
 ### caniuse
 
 - locomotive js
+- cydstumpel
