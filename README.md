@@ -104,9 +104,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - mixamo
 
-- sketchfab(clb로 가져오기)
-
-- dora
+- sketchfab(glb로 가져오기) -- dora로 가서 사용 가능 import하여 사용가능
 
 (ai 사이트)
 
