@@ -100,11 +100,13 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - spline
 
+- dora
+
 - spline docs
 
 - mixamo
 
-- sketchfab(glb로 가져오기) -- dora로 가서 사용 가능 import하여 사용가능
+- sketchfab(glb로 가져오기) -- dora(또는 spline)로 가서 사용 가능 import하여 사용가능
 
 (ai 사이트)
 
