@@ -148,8 +148,16 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 1. aos.js --> https://michalsnik.github.io/aos/
 
-2
+2. Wow.js(https://wowjs.uk/docs.html) , cdnjs(<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>), animate css 사용(https://animate.style/) 
 3. scrolla.js cdn(https://www.jsdelivr.com/package/npm/jquery-scrolla), scrolla js(https://maximzhurkin.github.io/jquery-scrolla/), 코드제이쿼리연결(제일 위)
 2. 
 3. 
 4. 
+
+
+
+학생 공유 폴더 링크
+- https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
+
+학생 평가 제출 링크 
+- http://naver.me/G2xSXtfc
