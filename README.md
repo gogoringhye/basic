@@ -142,3 +142,14 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 ### https://codepen.io/Roxey/pen/oZrRZN
+
+
+### 애니메이션 
+
+1. aos.js --> https://michalsnik.github.io/aos/
+
+2
+3. scrolla.js cdn(https://www.jsdelivr.com/package/npm/jquery-scrolla), scrolla js(https://maximzhurkin.github.io/jquery-scrolla/), 코드제이쿼리연결(제일 위)
+2. 
+3. 
+4. 
