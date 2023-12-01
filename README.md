@@ -73,12 +73,13 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 
 
 * 라이브 안열릴시 셋핑에 들어가서 local 치고 use 체크하기
-
-### slick
+```
+🔎 슬라이더 라이브러리
+slick --> jQuery 기반
 ### slick cdn
 
-### swiper
-
+swiper -->  jQuery에 의존하지 않는 자바스크립트 슬라이더 라이브러리
+```
 ### codepen
 
 ### CSS Script: Free JavaScript / CSS / CSS3
@@ -98,7 +99,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 ```
-🛸 3D 사이트
+🔎 3D 사이트
 
 - spline
 
@@ -110,7 +111,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능 ▶ 도형 더블클릭 -- 3D editor 눌러야 편집 가능 ▶ 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동
 
-🛸 ai 사이트
+🔎 ai 사이트
 
 - Luma AI
 
