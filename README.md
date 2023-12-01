@@ -167,8 +167,9 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의 
 
-```
+
 ### jQuery Scrolla
+
 ```
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
   
