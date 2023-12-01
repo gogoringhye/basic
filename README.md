@@ -162,11 +162,9 @@ https://github.com/hmongouachon/rgbKineticSlider
 - animate.css
 
 
-* "Animate.css" 라이브러리의 구조 및 작동 방식
+"Animate.css" 라이브러리의 구조 및 작동 방식
 
-<div class="animate__animated animate__bounce">Content here</div>
-
-- animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의 
+--> animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의(Installation and Usage -- Basic usage 가서 확인 가능함)
 ```
 
 ### jQuery Scrolla
