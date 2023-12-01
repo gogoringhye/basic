@@ -151,7 +151,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 ### Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
 
 ```
-- wow.js(사이트에서 순서 확인) 
+- wow.js(는 애니메이션을 주는 것이 아니라 트리거를 돕는 역할을 함, 사이트에서 순서 확인) 
 
 1. animate.css에서 css 긁어와서 라이브러리 연결해주기
 
