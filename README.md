@@ -160,7 +160,12 @@ https://github.com/hmongouachon/rgbKineticSlider
 3. wow docs에서 script 긁어오기
 
 ```
-4. Advanced Options
+4. docs Options 사용하여 트리거 주기
+
+* "Wow.js"는 data-wow-duration ("1s") 및 data-wow-delay ("0.3s") 등을 명시적으로 제공하지 않아도, 기본적인 지속 시간과 지연 시간(기본값)을 사용하여
+
+요소가 나타날 때 자동으로 애니메이션을 시작하지만 경우에 따라서 사용자가 명시적으로 속성을 지정하는 것이 유용할 수 있고, 원하는 시각적 효과를 얻는 것에 유리함.
+
 
 data-wow-duration: Change the animation duration
 
@@ -174,10 +179,6 @@ data-wow-duration: Change the animation duration
  <section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s"> </section>
  <section class="wow slideInRight" data-wow-offset="10"  data-wow-iteration="10">  </section>
 ```
-
-"Wow.js"는 data-wow-duration ("1s") 및 data-wow-delay ("0.3s") 등을 명시적으로 제공하지 않아도, 기본적인 지속 시간과 지연 시간(기본값)을 사용하여
-
-요소가 나타날 때 자동으로 애니메이션을 시작하지만 경우에 따라서 사용자가 명시적으로 속성을 지정하는 것이 유용할 수 있고, 원하는 시각적 효과를 얻는 것에 유리함.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 - animate.css
