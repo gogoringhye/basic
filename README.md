@@ -154,11 +154,16 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 <jQuery Scrolla>
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/) 들어가서 순서 확인
+  
 2. animate.css에서 css 긁어오기
-2. code jquery cdn(가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
+
+   
+3. code jquery cdn(가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
 
 * class="animate" --> 반드시 animate라는 클래스가 있어야 실행됨(사이트에 그렇게 명시되어 있음)
-* data-animate="애니메이션" --> animate.css 사이트 들어가서 마음에 드는 효과의 이름을 " " 괄호 안에 넣어주면 됨 
+
+* data-animate="애니메이션" --> animate.css 사이트 들어가서 마음에 드는 효과의 이름을 " " 괄호 안에 넣어주면 됨.
+
 * 굳이 css를 사용하지 않고 뒤에 이어서 style="animation-delay: 0.2s;" 이런식으로 스타일 줄 수 있음
 
 
