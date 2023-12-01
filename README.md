@@ -169,7 +169,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ```
 ### jQuery Scrolla
-
+```
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
   
 2. animate.css에서 css 긁어오기
