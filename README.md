@@ -148,13 +148,13 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 1. aos.js --> https://michalsnik.github.io/aos/
 
-### Wow.js(https://wowjs.uk/docs.html) , cdnjs(<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>), animate css 사용(https://animate.style/) 
+### Wow.js(https://wowjs.uk/docs.html)에서 순서 확인
 
 1. animate.css에서 css 긁어오기
 
-2. wow cdn js 주소 가져오기
+2. wow cdn js(https://cdnjs.com/libraries/wow) 주소 가져오기
 
-3. wow.js 페이지에서 script 긁어오기
+3. wow.js(https://wowjs.uk/docs.html) 페이지에서 script 긁어오기
 
 * "Animate.css" 라이브러리의 구조 및 작동 방식
 
@@ -167,7 +167,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### jQuery Scrolla
 
-1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/) 들어가서 순서 확인
+1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
   
 2. animate.css에서 css 긁어오기
 
