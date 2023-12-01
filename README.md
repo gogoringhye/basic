@@ -103,21 +103,21 @@ https://github.com/hmongouachon/rgbKineticSlider
 ```
 🔎 3D 사이트
 
-- spline
+🖤 spline
 
-- spline docs
+🖤 spline docs
 
-- dora
+🖤 dora
 
-- mixamo
+🖤 mixamo
 
-- sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능 ▶ 도형 더블클릭 -- 3D editor 눌러야 편집 가능 ▶ 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동
+🖤 sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능 ▶ 도형 더블클릭 -- 3D editor 눌러야 편집 가능 ▶ 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동
 
 🔎 ai 사이트
 
-- Luma AI
+🖤 Luma AI
 
-- turbosquid
+🖤 turbosquid
 
 ```
 ### BOXY SVG
