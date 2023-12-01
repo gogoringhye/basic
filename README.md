@@ -157,7 +157,6 @@ https://github.com/hmongouachon/rgbKineticSlider
   
 2. animate.css에서 css 긁어오기
 
-   
 3. code jquery cdn(가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
 
 * class="animate" --> 반드시 animate라는 클래스가 있어야 실행됨(사이트에 그렇게 명시되어 있음)
