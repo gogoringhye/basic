@@ -96,23 +96,28 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### figma(시안, 일러와 유사함)
 
-### 3D 사이트
+
 ```
+🛸 3D 사이트
 
 - spline
 
-- dora
-
 - spline docs
+
+- dora
 
 - mixamo
 
-- sketchfab(glb로 가져오기) -- dora(또는 spline)로 가서 사용 가능 import하여 사용가능 -- (더블클릭 3D editor 눌러야 편집 가능하고, 그룹 내 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동함)
+- sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능
 
-## ai 사이트
+--> (더블클릭 3D editor 눌러야 편집 가능하고, 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동함)
+
+🛸 ai 사이트
 
 - Luma AI
+
 - turbosquid
+
 ```
 ### BOXY SVG
 
