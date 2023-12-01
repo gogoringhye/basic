@@ -152,7 +152,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-<jQuery Scrolla>
+###jQuery Scrolla
 
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/) 들어가서 순서 확인
   
