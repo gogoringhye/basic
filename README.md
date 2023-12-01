@@ -144,25 +144,27 @@ https://github.com/hmongouachon/rgbKineticSlider
 ### https://codepen.io/Roxey/pen/oZrRZN
 
 
-### 애니메이션 
+### 애니메이션을 이용할 수 있는 3가지 방법
 
 1. aos.js --> https://michalsnik.github.io/aos/
 
-### Wow.js(https://wowjs.uk/docs.html)에서 순서 확인
+### Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
 
-1. animate.css에서 css 긁어오기
+- wow.js(사이트에서 순서 확인) 
 
-2. wow cdn js(https://cdnjs.com/libraries/wow) 주소 가져오기
+1. animate.css에서 css 긁어와서 라이브러리 연결해주기
 
-3. wow.js(https://wowjs.uk/docs.html) 페이지에서 script 긁어오기
+2. wow cdn js(https://cdnjs.com/libraries/wow)에서 js 링크 긁어오기 
+
+3. wow docs에서 script 긁어오기
+
+- animate.css
 
 * "Animate.css" 라이브러리의 구조 및 작동 방식
 
 <div class="animate__animated animate__bounce">Content here</div>
 
-- animate__animated -- 요소에 애니메이션을 적용 
-
-- animate__bounce -- 특정 애니메이션 효과를 정의 
+- animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의 
 
 
 ### jQuery Scrolla
