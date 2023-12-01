@@ -150,6 +150,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
 
+```
 - wow.js(사이트에서 순서 확인) 
 
 1. animate.css에서 css 긁어와서 라이브러리 연결해주기
@@ -157,7 +158,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 2. wow cdn js(https://cdnjs.com/libraries/wow)에서 js 링크 긁어오기 
 
 3. wow docs에서 script 긁어오기
-
+----
 - animate.css
 
 
@@ -166,7 +167,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 <div class="animate__animated animate__bounce">Content here</div>
 
 - animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의 
-
+```
 
 ### jQuery Scrolla
 
