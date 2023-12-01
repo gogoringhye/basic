@@ -159,8 +159,9 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 3. wow docs에서 script 긁어오기
 
-4.
 ```
+4.
+
 Advanced Options
 data-wow-duration: Change the animation duration
 data-wow-delay: Delay before the animation starts
