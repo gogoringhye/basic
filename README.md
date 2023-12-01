@@ -160,6 +160,20 @@ https://github.com/hmongouachon/rgbKineticSlider
 3. wow docs에서 script 긁어오기
 
 4.
+```
+Advanced Options
+data-wow-duration: Change the animation duration
+data-wow-delay: Delay before the animation starts
+data-wow-offset: Distance to start the animation (related to the browser bottom)
+data-wow-iteration: Number of times the animation is repeated
+
+
+                    <section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s">
+                    </section>
+
+                    <section class="wow slideInRight" data-wow-offset="10"  data-wow-iteration="10">
+                    </section>
+```
 
 "Wow.js"는 data-wow-duration ("1s") 및 data-wow-delay ("0.3s") 등을 명시적으로 제공하지 않아도, 기본적인 지속 시간과 지연 시간(기본값)을 사용하여
 
