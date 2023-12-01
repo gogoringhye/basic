@@ -75,8 +75,10 @@ ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
 * 라이브 안열릴시 셋핑에 들어가서 local 치고 use 체크하기
 ```
 🔎 슬라이더 라이브러리
-slick --> jQuery 기반
-### slick cdn
+
+🖤 slick --> jQuery 기반
+
+🖤 slick cdn
 
 swiper -->  jQuery에 의존하지 않는 자바스크립트 슬라이더 라이브러리
 ```
