@@ -160,6 +160,8 @@ https://github.com/hmongouachon/rgbKineticSlider
 3. wow docs에서 script 긁어오기
 
 ```
+
+```
 4. docs Options 사용하여 트리거 주기
 
 * "Wow.js"는 data-wow-duration ("1s") 및 data-wow-delay ("0.3s") 등을 명시적으로 제공하지 않아도, 기본적인 지속 시간과 지연 시간(기본값)을 사용하여
@@ -180,6 +182,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 ```
 
+```
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 - animate.css
 
@@ -187,6 +190,7 @@ data-wow-iteration: Number of times the animation is repeated
 "Animate.css" 라이브러리의 구조 및 작동 방식
 
 --> animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의(Installation and Usage -- Basic usage 가서 확인 가능함)
+
 ```
 
 ### jQuery Scrolla
