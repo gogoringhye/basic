@@ -167,7 +167,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의 
 
-
+```
 ### jQuery Scrolla
 
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
@@ -181,7 +181,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 * data-animate="애니메이션" --> animate.css 사이트 들어가서 마음에 드는 효과의 이름을 " " 괄호 안에 넣어주면 됨.
 
 * 굳이 css를 사용하지 않고도 style을 연결해서 style="animation-delay: 0.2s;" 이런식으로 애니메이션에 대한 효과를 줄 수 있음
-
+```
 
 학생 공유 폴더 링크
 - https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
