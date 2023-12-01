@@ -108,9 +108,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 - mixamo
 
-- sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능
-
---> (더블클릭 3D editor 눌러야 편집 가능하고, 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동함)
+- sketchfab(glb로 저장) -- dora 또는 spline에서 import하여 사용가능 ▶ 도형 더블클릭 -- 3D editor 눌러야 편집 가능 ▶ 그룹 내부 클릭 -- 3D animations 파란색으로 체크하면 애니메이션 작동
 
 🛸 ai 사이트
 
@@ -207,7 +205,7 @@ data-wow-iteration: Number of times the animation is repeated
   
 2. animate.css에서 css 긁어오기
 
-3. code jquery cdn(가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
+3. code jquery cdn(min🐱‍🐉 가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
 
 * class="animate" --> 반드시 animate라는 클래스가 있어야 실행됨(사이트에 그렇게 명시되어 있음)
 
