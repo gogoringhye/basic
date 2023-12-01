@@ -149,7 +149,18 @@ https://github.com/hmongouachon/rgbKineticSlider
 1. aos.js --> https://michalsnik.github.io/aos/
 
 2. Wow.js(https://wowjs.uk/docs.html) , cdnjs(<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>), animate css 사용(https://animate.style/) 
-3. scrolla.js cdn(https://www.jsdelivr.com/package/npm/jquery-scrolla), scrolla js(https://maximzhurkin.github.io/jquery-scrolla/), animate.css 사용(https://animate.style/), 코드제이쿼리연결(제일 위에 배치)
+
+
+
+<jQuery Scrolla>
+1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/) 들어가서 순서 확인
+2. animate.css에서 css 긁어오기
+2. code jquery cdn(가장 상단 부분에 위치해야함), scroll cdn, scrolla의 Custom settings 스트립크 넣어주기
+
+* class="animate" --> 반드시 animate라는 클래스가 있어야 실행됨(사이트에 그렇게 명시되어 있음)
+* data-animate="애니메이션" --> animate.css 사이트 들어가서 마음에 드는 효과의 이름을 " " 괄호 안에 넣어주면 됨 
+* 굳이 css를 사용하지 않고 뒤에 이어서 style="animation-delay: 0.2s;" 이런식으로 스타일 줄 수 있음
+
 
 학생 공유 폴더 링크
 - https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
