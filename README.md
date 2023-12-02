@@ -25,8 +25,7 @@
 ### 원격 조종 사이트 
 * AnyDesk 
 ```
-### 선생님 자료 백업 사이트(코드 확인 가능)
-🔎 filezill
+🔎 filezill(강사님 자료 백업)
 
 호스트: suuneeeee.dothome.co.kr 
 
