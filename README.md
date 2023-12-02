@@ -22,8 +22,10 @@
 * visual studio code(ctrl + s 저장)
 * Figma
 
-### 원격 조종 사이트 
-* AnyDesk 
+🖤 원격 조종 사이트 
+* AnyDesk
+
+  
 ```
 🔎 filezill(강사님 자료 백업)
 
@@ -33,9 +35,7 @@
 
 비번: jung963852!
 
-(주소 basic 슬래시 앞부분 suuneeeee.dothome.co.kr로 바꾸고 페이지 소스 보기하면 볼 수 있음)
-
-ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
+(주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
 ```
 ### awwwards(다른 사람 시안)
 
