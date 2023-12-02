@@ -24,24 +24,20 @@
 
 ### 원격 조종 사이트 
 * AnyDesk 
-
+```
 ### 선생님 자료 백업 사이트(코드 확인 가능)
-* filezill
-
-이용 방법
+🔎 filezill
 
 호스트: suuneeeee.dothome.co.kr 
 
-사용자명: suuneeeee 사용자명
+사용자명: suuneeeee
 
-비번: jung963852! 비번
-
-(html->basic 선택)
+비번: jung963852!
 
 (주소 basic 슬래시 앞부분 suuneeeee.dothome.co.kr로 바꾸고 페이지 소스 보기하면 볼 수 있음)
 
 ex.http://suuneeeee.dothome.co.kr/basic/basic_1/index5.html(! 안될때 html5)
-
+```
 ### awwwards(다른 사람 시안)
 
 ### 크롬 번역기 다운
