@@ -1,6 +1,6 @@
 ## 수업 사이트 정리
-
-### 도서 열람 사이트
+```
+🔎 도서 열람 사이트
 * The book
 
 (교재추천)
@@ -9,21 +9,19 @@
 3. 모두의 HTML5 & CSS3
 4. 모두의 SQL
 
-* w3school
+🖤 w3school
   
-검색(ex.color) ----> 웹표준
+🖤 MDN Web Docs
+```
 
-* MDN Web Docs
-  
-### 메모 사이트
-* github 
+🖤 github 
 
-### 수업 프로그램 
-* visual studio code(ctrl + s 저장)
-* Figma
+🖤 visual studio code
 
-🖤 원격 조종 사이트 
-* AnyDesk
+🖤 Figma
+
+🖤 AnyDesk(원격 조종 사이트) 
+
 
   
 ```
