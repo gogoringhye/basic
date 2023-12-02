@@ -4,6 +4,8 @@
 
 🖤 visual studio code
 
+🖤 ChatGPT 
+
 🖤 Figma
 
 🖤 AnyDesk(원격 조종 사이트) 
@@ -41,7 +43,7 @@
 
 ### 한글 Lorem Ipsum
   
-### ChatGPT 
+
 
 ### gsap
 
