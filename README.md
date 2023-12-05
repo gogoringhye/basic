@@ -146,7 +146,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 이미지 사이트 
 
--iconscout
+-iconscout-->유료긴한데 개발자로 긁으니까 글어와짐
 -프리픽
 
 
