@@ -2,11 +2,9 @@
 
 🖤 github 
 
-🖤 visual studio code
+🖤 visual studio code(* open with live server 작동 안될시 settings ➡ use ✔)
 
 🖤 ChatGPT 
-
-🖤 Figma
 
 🖤 AnyDesk(원격 조종 사이트) 
 
@@ -49,13 +47,12 @@
 
 ### jQuery CDN
 
-### Material Design UI Kit Figma, ios 15 ui kit for figma 검색 후 다운(피그마)
 
 이것도 다운
 ![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
 
 
-* 라이브 안열릴시 셋핑에 들어가서 local 치고 use 체크하기
+
 ```
 🔎 슬라이더 라이브러리
 
@@ -104,6 +101,9 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### figma(시안, 일러와 유사함)
 
+
+
+🖤 Figma
 
 ```
 🔎 3D 사이트
