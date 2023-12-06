@@ -2,7 +2,7 @@
 
 🖤 github 
 
-🖤 visual studio code(* open with live server 작동 안될시 settings ▶ use ✔)
+🖤 visual studio code(* open with live server 작동 안될시 settings ➡ use ✔)
 
 🖤 ChatGPT 
 
