@@ -234,7 +234,7 @@ data-wow-iteration: Number of times the animation is repeated
 학생 평가 제출 링크 
 - http://naver.me/G2xSXtfc
 
-
+scrollrevealjs
 
 
 ```
