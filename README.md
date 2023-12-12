@@ -252,3 +252,22 @@ scrollrevealjs
 * 포폴 계획--> 상업 리뉴얼 & 개인 소개 페이지
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber/
