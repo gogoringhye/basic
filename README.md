@@ -130,6 +130,8 @@ unsplash
 ### cutthecode
 
 ### awwwards
+### Codrops(https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/),어어드에비해 소스가 보여서 좋음 
+
 ### gsap
 
 ### 폰트 변환(ex 하나카드 예제 폰트)사이트 web font genertator(add fonts-->convert-->download)
