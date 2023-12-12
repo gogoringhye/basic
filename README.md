@@ -130,7 +130,7 @@ unsplash
 ### cutthecode
 
 ### awwwards
-### Codrops(https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/),어어드에비해 소스가 보여서 좋음 
+### Codrops(lenis 기반이며, react 기반이라서 소스가 보이지 않는 awwwards에 비해 좋음)
 
 ### gsap
 
