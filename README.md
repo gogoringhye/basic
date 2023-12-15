@@ -329,4 +329,5 @@ MySQL(https://dev.mysql.com/downloads/file/?id=523567)
 ![image](https://github.com/gogoringhye/basic/assets/145514996/872b9006-1d4f-435f-82c4-4cbf9bc01056)
 항상 체크
 ![image](https://github.com/gogoringhye/basic/assets/145514996/411dbc6d-c184-478d-ba9e-5450a120989c)
-
+![image](https://github.com/gogoringhye/basic/assets/145514996/f95ec05b-7720-48b6-8c63-6056839186a9)
+![Uploading image.png…]()
