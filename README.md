@@ -327,4 +327,6 @@ https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-u
 MySQL(https://dev.mysql.com/downloads/file/?id=523567)
 
 ![image](https://github.com/gogoringhye/basic/assets/145514996/872b9006-1d4f-435f-82c4-4cbf9bc01056)
+항상 체크
+![image](https://github.com/gogoringhye/basic/assets/145514996/411dbc6d-c184-478d-ba9e-5450a120989c)
 
