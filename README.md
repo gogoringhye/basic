@@ -159,7 +159,7 @@ https://splitting.js.org/
 
 lenis
 
-
+정규식(https://regexr.com/5mhon)
 
 
 ### https://codepen.io/Roxey/pen/oZrRZN
