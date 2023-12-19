@@ -22,11 +22,13 @@
 
 🖤 크롬 번역기 다운(chrome 웹스토어)
 
-🖤한글 Lorem Ipsum
+🖤 한글 Lorem Ipsum
 
 🖤 Favicon & App Icon Generator(파비콘 사이즈 조절)
 
 🖤 Fancy Border Radius Generator(테두리 모양을 시각적으로 조절하고 코드를 쉽게 생성할 수 있게 도와주는 사이트)
+
+🖤 BOXY SVG
 
 🖤 정규식(https://regexr.com/5mhon)
 
@@ -231,7 +233,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
-### BOXY SVG
+
 
 ### cutthecode
 
