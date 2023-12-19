@@ -55,6 +55,7 @@
 
 설치 방법 🔽
 ![image](https://github.com/gogoringhye/basic/assets/145514996/872b9006-1d4f-435f-82c4-4cbf9bc01056)
+![image](https://github.com/gogoringhye/basic/assets/145514996/e1d023d3-fe5f-4ca6-8717-61c6ac3c77d6)
 항상 체크
 ![image](https://github.com/gogoringhye/basic/assets/145514996/411dbc6d-c184-478d-ba9e-5450a120989c)
 ![image](https://github.com/gogoringhye/basic/assets/145514996/f95ec05b-7720-48b6-8c63-6056839186a9)
@@ -62,7 +63,6 @@
 
 
 
-![image](https://github.com/gogoringhye/basic/assets/145514996/e1d023d3-fe5f-4ca6-8717-61c6ac3c77d6)
 
 
 
