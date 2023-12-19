@@ -8,6 +8,8 @@
 
 🖤 AnyDesk(원격 조종 사이트) 
 
+🖤 netlify(호스팅 사이트)
+
 ```
 🔎 도서 열람 사이트
 * The book
@@ -191,18 +193,25 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### Fancy Border Radius Generator
 
-### netlify(호스팅 사이트)
 
-### figma(시안, 일러와 유사함)
+
+
+
 
 🔎 시안
-🖤 Figma
 
+🖤 Figma(일러스트와 유사함))
+
+```
 🔎 이미지 사이트
+
 🖤 unsplash
+
 🖤 freepik
+
 🖤 iconscout(유료이미지, 개발자로 긁으면 긁어와짐)
 
+```
 
 ```
 🔎 3D 사이트
