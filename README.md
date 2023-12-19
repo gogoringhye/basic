@@ -107,9 +107,11 @@
 
 🔎 애니메이션
 
-🖤 gsap
+🖤 gsap(자바스크립트 기반, 강력하고 유연한 애니메이션 라이브러리)
 
 🖤 lenis(스크롤을 부드럽게)
+
+🖤 splitting.js(자바스크립트 라이브러리, 텍스트를 분할하고 독특한 효과를 만들어낼 수 있음)
 
 ```
 
@@ -259,7 +261,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-https://splitting.js.org/
+
 
 
 
