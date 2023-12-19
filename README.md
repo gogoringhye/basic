@@ -1,6 +1,5 @@
 🤓 수업 참고 사이트 
 ```
-
 🖤 github(메모, 백업)
 
 🖤 visual studio code(* open with live server 작동 안될시 settings ➡ use ✔)
@@ -12,7 +11,6 @@
 🖤 netlify(호스팅 사이트)
 
 🖤 jQuery CDN
-
 ```
 
 ```
