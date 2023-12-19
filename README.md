@@ -48,10 +48,6 @@
 🖤 MDN Web Docs
 ```
   
-
-
-
-
 ```
 🔎 포트폴리오
 
@@ -80,16 +76,6 @@
 🖤 lenis(스크롤을 부드럽게)
 
 ```
-
-
-
-
-
-이것도 다운
-![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
-
-
-
 
 
 ### 애니메이션을 이용할 수 있는 3가지 방법
@@ -336,6 +322,7 @@ https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-u
 
 
 
+![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
 
 
 
