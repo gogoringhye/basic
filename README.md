@@ -28,7 +28,7 @@
 
 🖤 Fancy Border Radius Generator(테두리 모양을 시각적으로 조절하고 코드를 쉽게 생성할 수 있게 도와주는 사이트)
 
-🖤 BOXY SVG
+🖤 BOXY SVG(벡터 그래픽을 생성하고 편집하는 데 사용되는 전문적인 도구인 벡터 그래픽 편집기)
 
 🖤 정규식(https://regexr.com/5mhon)
 
