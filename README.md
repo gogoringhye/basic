@@ -39,6 +39,9 @@
 🖤 caniuse
 
 🖤 cydstumpel(https://cydstumpel.nl/)
+
+🖤 https://codepen.io/Roxey/pen/oZrRZN
+
 ```
 
 ```
@@ -311,8 +314,6 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-
-### https://codepen.io/Roxey/pen/oZrRZN
 
 
 
