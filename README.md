@@ -195,12 +195,14 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 ### figma(시안, 일러와 유사함)
 
+🔎 시안
+🖤 Figma
 
 🔎 이미지 사이트
 🖤 unsplash
+🖤 freepik
+🖤 iconscout(유료이미지, 개발자로 긁으면 긁어와짐)
 
-
-🖤 Figma
 
 ```
 🔎 3D 사이트
@@ -243,10 +245,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-이미지 사이트 
 
--iconscout-->유료긴한데 개발자로 긁으니까 글어와짐
--프리픽
 
 
 
