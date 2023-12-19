@@ -51,12 +51,14 @@
 ```
   
 ```
-🔎 포트폴리오
+🤸‍♀️ 평가
 
-🖤 awwwards(시안 참조)
-🖤 Codrops(lenis, react 기반, 소스가 공개되어 있어서 참조하기 매우 좋은 사이트임)
+학생 공유 폴더 링크
+- https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
+
+학생 평가 제출 링크 
+- http://naver.me/G2xSXtfc
 ```
-
 ```
 🔎 filezill(강사님 자료 백업)
 
@@ -69,15 +71,7 @@
 (주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
 ```
 
-```
-🤸‍♀️ 평가
 
-학생 공유 폴더 링크
-- https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
-
-학생 평가 제출 링크 
-- http://naver.me/G2xSXtfc
-```
 
 
 
@@ -241,7 +235,12 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
+```
+🔎 포트폴리오
 
+🖤 awwwards(시안 참조)
+🖤 Codrops(lenis, react 기반, 소스가 공개되어 있어서 참조하기 매우 좋은 사이트임)
+```
 
 
 
