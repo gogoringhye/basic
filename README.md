@@ -11,6 +11,26 @@
 🖤 netlify(호스팅 사이트)
 
 🖤 jQuery CDN
+
+🖤 codepen
+
+🖤 EntityCode(특수기호)
+
+🖤 fontawesome(무료 아이콘)
+
+🖤 remixicon(무료 아이콘)
+
+### CSS Script: Free JavaScript / CSS / CSS3
+
+### rgbKineticSlider(codepen demo에 있는 유형, github)
+https://github.com/hmongouachon/rgbKineticSlider
+
+### 
+
+🖤 Favicon & App Icon Generator(파비콘 사이즈 조절)
+
+🖤 Fancy Border Radius Generator(테두리 모양을 시각적으로 조절하고 코드를 쉽게 생성할 수 있게 도와주는 사이트)
+
 ```
 
 ```
@@ -28,17 +48,7 @@
 🖤 MDN Web Docs
 ```
   
-```
-🔎 filezill(강사님 자료 백업)
 
-호스트: suuneeeee.dothome.co.kr 
-
-사용자명: suuneeeee
-
-비번: jung963852!
-
-(주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
-```
 ### awwwards(다른 사람 시안)
 
 ### 크롬 번역기 다운
@@ -52,7 +62,17 @@
 🖤 awwwards
 ```
 
+```
+🔎 filezill(강사님 자료 백업)
 
+호스트: suuneeeee.dothome.co.kr 
+
+사용자명: suuneeeee
+
+비번: jung963852!
+
+(주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
+```
 
 
 
@@ -74,7 +94,7 @@
 ```
 
 
-### jQuery CDN
+
 
 
 이것도 다운
@@ -149,7 +169,6 @@ data-wow-iteration: Number of times the animation is repeated
 * 굳이 css를 사용하지 않고도 style을 연결해서 style="animation-delay: 0.2s;" 이런식으로 애니메이션에 대한 효과를 줄 수 있음
 ```
 
-
 ```
 🔎 슬라이더 라이브러리
 
@@ -192,18 +211,8 @@ data-wow-iteration: Number of times the animation is repeated
 ![image](https://github.com/gogoringhye/basic/assets/145514996/f95ec05b-7720-48b6-8c63-6056839186a9)
 ![image](https://github.com/gogoringhye/basic/assets/145514996/7737aa99-4140-4ea5-aaab-5d5fc1a30444)
 
-### codepen
 
-### CSS Script: Free JavaScript / CSS / CSS3
 
-### rgbKineticSlider(codepen demo에 있는 유형, github)
-https://github.com/hmongouachon/rgbKineticSlider
-
-### EntityCode(특수기호)
-
-### Favicon & App Icon Generator(파비콘 사이즈 조절)
-
-### Fancy Border Radius Generator
 
 
 
