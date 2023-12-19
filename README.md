@@ -20,17 +20,15 @@
 
 🖤 remixicon(무료 아이콘)
 
-### CSS Script: Free JavaScript / CSS / CSS3
+🖤 크롬 번역기 다운(chrome 웹스토어)
 
-### rgbKineticSlider(codepen demo에 있는 유형, github)
-https://github.com/hmongouachon/rgbKineticSlider
-
-### 
+🖤한글 Lorem Ipsum
 
 🖤 Favicon & App Icon Generator(파비콘 사이즈 조절)
 
 🖤 Fancy Border Radius Generator(테두리 모양을 시각적으로 조절하고 코드를 쉽게 생성할 수 있게 도와주는 사이트)
 
+🖤 정규식(https://regexr.com/5mhon)
 ```
 
 ```
@@ -49,17 +47,13 @@ https://github.com/hmongouachon/rgbKineticSlider
 ```
   
 
-### awwwards(다른 사람 시안)
 
-### 크롬 번역기 다운
-* chrome 웹스토어
 
-### 한글 Lorem Ipsum
 
 ```
 🔎 포트폴리오
 
-🖤 awwwards
+🖤 awwwards(시안 참조)
 ```
 
 ```
@@ -73,15 +67,6 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 (주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
 ```
-
-
-
-
-
-
-
-
-
 
 ```
 
@@ -276,7 +261,12 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
+### CSS Script: Free JavaScript / CSS / CSS3
 
+### rgbKineticSlider(codepen demo에 있는 유형, github)
+https://github.com/hmongouachon/rgbKineticSlider
+
+### 
 
 
 
