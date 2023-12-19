@@ -40,6 +40,8 @@
 
 🖤 caniuse
 
+🖤 cutthecode
+
 🖤 cydstumpel(https://cydstumpel.nl/)
 
 🖤 https://codepen.io/Roxey/pen/oZrRZN
@@ -276,24 +278,6 @@ data-wow-iteration: Number of times the animation is repeated
 * 학원 카페 가입--> 취업 정보 확인 가능
 * 포폴 계획--> 상업 리뉴얼 & 개인 소개 페이지
 ```
-
-
-
-
-### cutthecode
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
