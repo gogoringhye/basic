@@ -4,7 +4,7 @@
 
 🖤 visual studio code(* open with live server 작동 안될시 settings ➡ use ✔)
 
-🖤 Figma(시안, 일러스트와 유사함))
+🖤 Figma(시안, 일러스트와 유사함)
 
 🖤 ChatGPT 
 
