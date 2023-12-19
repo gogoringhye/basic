@@ -61,10 +61,15 @@
 
 
 
-  
-🔎 애니메이션 
+```
+
+🔎 애니메이션
+
 🖤 gsap
 
+🖤 lenis(스크롤을 부드럽게)
+
+```
 
 
 ### jQuery CDN
@@ -266,7 +271,6 @@ https://github.com/hmongouachon/rgbKineticSlider
 https://splitting.js.org/
 
 
-lenis
 
 정규식(https://regexr.com/5mhon)
 
