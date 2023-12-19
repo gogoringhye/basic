@@ -35,6 +35,8 @@
 🖤 react(싱글페이지 어플리케이션)
 
 🖤 폰트 변환(ex.하나카드 예제 폰트)사이트 web font genertator(add fonts-->convert-->download)
+
+🖤 caniuse
 ```
 
 ```
@@ -264,6 +266,19 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
+```
+1. 웹 에이전시(업무량 ⬆️, 대면 ⬆️)
+2. 광고/홍보 온라인 마케팅 전문회사
+3. 일반 기업체
+4. 쇼핑몰/온라인몰
+5. (2, 4는 면접시 sns 활용도 보는 편)
+- PHP + mysql react, 자바스크립트(매우 중요)
+- 관련 자격증(웹디자인기능사, GTQi)
+* 학원 카페 가입--> 취업 정보 확인 가능
+* 포폴 계획--> 상업 리뉴얼 & 개인 소개 페이지
+```
+
+
 
 
 ### cutthecode
@@ -309,19 +324,7 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-```
-1. 웹 에이전시(업무량 ⬆️, 대면 ⬆️)
-2. 광고/홍보 온라인 마케팅 전문회사
-3. 일반 기업체
-4. 쇼핑몰/온라인몰
-5. (2, 4는 면접시 sns 활용도 보는 편)
 
-- PHP + mysql react, 자바스크립트(매우 중요)
-- 관련 자격증(웹디자인기능사, GTQi)
-* 학원 카페 가입--> 취업 정보 확인 가능
-* 포폴 계획--> 상업 리뉴얼 & 개인 소개 페이지
-
-```
 
 
 
