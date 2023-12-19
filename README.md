@@ -56,6 +56,7 @@
 🔎 포트폴리오
 
 🖤 awwwards(시안 참조)
+🖤 Codrops(lenis, react 기반, 소스가 공개되어 있어서 참조하기 매우 좋은 사이트임)
 ```
 
 ```
@@ -245,8 +246,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 ### cutthecode
 
-### awwwards
-### Codrops(lenis 기반이며, react 기반이라서 소스가 보이지 않는 awwwards에 비해 좋음)
+
 
 ### gsap
 
@@ -276,7 +276,7 @@ https://splitting.js.org/
 
 
 
-정규식(https://regexr.com/5mhon)
+
 
 
 ### https://codepen.io/Roxey/pen/oZrRZN
@@ -324,39 +324,6 @@ scrollrevealjs
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://cyberfiction.io/
 
 
@@ -366,10 +333,6 @@ https://cyberfiction.io/
 
 
 https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber/
-
-
-
-
 
 
 
