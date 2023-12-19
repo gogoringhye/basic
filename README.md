@@ -138,11 +138,11 @@
 
 ⭐ 애니메이션을 이용할 수 있는 3가지 방법
 
-### ⭐aos.js(https://michalsnik.github.io/aos/)
+## ⭐aos.js(https://michalsnik.github.io/aos/)
 ```
 ```
 
-### ⭐Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
+## ⭐Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
 
 ```
 - wow.js(는 애니메이션을 주는 것이 아니라 트리거를 돕는 역할을 함, 사이트에서 순서 확인) 
@@ -187,7 +187,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 ```
 
-### ⭐jQuery Scrolla
+## ⭐jQuery Scrolla
 
 ```
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
