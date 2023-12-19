@@ -69,6 +69,18 @@
 (주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
 ```
 
+```
+🤸‍♀️ 평가
+
+학생 공유 폴더 링크
+- https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
+
+학생 평가 제출 링크 
+- http://naver.me/G2xSXtfc
+```
+
+
+
 🔎 시안
 
 🖤 Figma(일러스트와 유사함))
@@ -276,14 +288,8 @@ https://github.com/hmongouachon/rgbKineticSlider
 
 
 
-```
-학생 공유 폴더 링크
-- https://mybox.naver.com/share/list?shareKey=jzPu-VE_ykbVkDtkzMCOutMhKRpOpNxb4y4A6QduGKAB
 
-학생 평가 제출 링크 
-- http://naver.me/G2xSXtfc
-```
-scrollrevealjs
+
 
 
 ```
