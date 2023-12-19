@@ -4,6 +4,8 @@
 
 🖤 visual studio code(* open with live server 작동 안될시 settings ➡ use ✔)
 
+🖤 Figma(시안, 일러스트와 유사함))
+
 🖤 ChatGPT 
 
 🖤 AnyDesk(원격 조종 사이트) 
@@ -81,14 +83,6 @@
 
 (주소 앞부분 suuneeeee.dothome.co.kr로 바꿔서 페이지 소스 확인하면 코드 확인 가능하다고 함)
 ```
-
-
-
-
-
-🔎 시안
-
-🖤 Figma(일러스트와 유사함))
 
 ```
 🔎 이미지 사이트
