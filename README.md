@@ -42,6 +42,8 @@
 
 🖤 https://codepen.io/Roxey/pen/oZrRZN
 
+🖤 rgbKineticSlider(codepen demo에 있는 유형, github), https://github.com/hmongouachon/rgbKineticSlider
+
 ```
 
 ```
@@ -302,35 +304,6 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 ### CSS Script: Free JavaScript / CSS / CSS3
-
-### rgbKineticSlider(codepen demo에 있는 유형, github)
-https://github.com/hmongouachon/rgbKineticSlider
-
-### 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* -는 의, _ ~안에 있는 */
-
 
 
 
