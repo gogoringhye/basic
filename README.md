@@ -250,6 +250,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 🖤 awwwards(시안 참조)
 🖤 Codrops(lenis, react 기반, 소스가 공개되어 있어서 참조하기 매우 좋은 사이트임)
+🖤 gdweb
 ```
 
 ``
