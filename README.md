@@ -289,7 +289,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
-
+https://www.entirestudios.com/uniform/
 
 
 ![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
