@@ -317,6 +317,7 @@ dothome 회원가입➡웹호스팅➡무료호스팅신청
 ![image](https://github.com/gogoringhye/basic/assets/145514996/15fb6448-4058-49dc-b8bc-81d6be36bcd5)
 f1➡ftp setting
 ![image](https://github.com/gogoringhye/basic/assets/145514996/cd997adf-797c-491e-bea4-13aa6b26946f)
+![image](https://github.com/gogoringhye/basic/assets/145514996/562c5999-323e-4fb4-a2ae-d5369a30fd71)
 
 
 
