@@ -309,18 +309,18 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
-
+```
+dothome 회원가입➡웹호스팅➡무료호스팅신청
+```
 ![image](https://github.com/gogoringhye/basic/assets/145514996/24aaf237-08ad-470b-860e-f7c10e2d3235)
-확장파일 설치해야 비주얼 스튜디어 코드와 연결 가능
+확장파일 설치해야 Visual Studio Code와 연결 가능
 ![image](https://github.com/gogoringhye/basic/assets/145514996/15fb6448-4058-49dc-b8bc-81d6be36bcd5)
 f1➡ftp setting
 ![image](https://github.com/gogoringhye/basic/assets/145514996/cd997adf-797c-491e-bea4-13aa6b26946f)
 
 
 
-```
-dothome 회원가입➡웹호스팅➡무료호스팅신청
-```
+\
 
 
 
