@@ -310,10 +310,11 @@ data-wow-iteration: Number of times the animation is repeated
 
 
 
+![image](https://github.com/gogoringhye/basic/assets/145514996/24aaf237-08ad-470b-860e-f7c10e2d3235)
 
-
-dothome 회원가입>웹호스팅<무료호스팅신청
-![Uploading image.png…]()
+```
+dothome 회원가입➡웹호스팅➡무료호스팅신청
+```
 
 
 
