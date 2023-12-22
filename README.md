@@ -314,7 +314,8 @@ data-wow-iteration: Number of times the animation is repeated
 확장파일 설치해야 비주얼 스튜디어 코드와 연결 가능
 ![image](https://github.com/gogoringhye/basic/assets/145514996/15fb6448-4058-49dc-b8bc-81d6be36bcd5)
 f1➡ftp setting
-![image](https://github.com/gogoringhye/basic/assets/145514996/a182b831-e69d-4416-a365-68df67b4a376)
+![image](https://github.com/gogoringhye/basic/assets/145514996/cd997adf-797c-491e-bea4-13aa6b26946f)
+
 
 
 ```
