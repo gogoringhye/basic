@@ -255,8 +255,8 @@ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%E
 ```
 
 ```
-추구미
 - https://cyberfiction.io/
+- https://www.entirestudios.com/uniform/
 - https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber/
 - https://www.lego.com/ko-kr/holiday-gifts
 - https://shop.mattel.com/pages/barbie
@@ -292,35 +292,6 @@ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%E
 * 포폴 계획--> 상업 리뉴얼 & 개인 소개 페이지
 ```
 
-
-
-### CSS Script: Free JavaScript / CSS / CSS3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 dothome 회원가입➡웹호스팅➡무료호스팅신청
 ```
@@ -333,13 +304,6 @@ f1➡ftp setting
 
 
 
-\
-
-
-
-
-
-https://www.entirestudios.com/uniform/
 
 
 ![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
