@@ -235,7 +235,7 @@ data-wow-iteration: Number of times the animation is repeated
 
 🔎 php
 
-🖤 MySQL(https://dev.mysql.com/downloads/file/?id=523567) 설치 방법 🔽
+🔎 MySQL(https://dev.mysql.com/downloads/file/?id=523567) 설치 방법 🔽
 - 확인 후 체크하기
 ![image](https://github.com/gogoringhye/basic/assets/145514996/872b9006-1d4f-435f-82c4-4cbf9bc01056)
 ![image](https://github.com/gogoringhye/basic/assets/145514996/e1d023d3-fe5f-4ca6-8717-61c6ac3c77d6)
