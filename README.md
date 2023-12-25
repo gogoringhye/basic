@@ -140,12 +140,12 @@
 
 1. CDN SOURCES(CSS, JS)연결
 2. INITIALIZE AOS
-
 ```
 <script>
   AOS.init();
 </script>
 ```
+3. 원하는 애니메이션 data-aos="" 긁어넣기
 
 ```
 
