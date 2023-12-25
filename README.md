@@ -268,6 +268,12 @@ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%E
 - https://www.sonnyangel.com/ko/
 - http://kongsuni.youngtoys.com/kor/support.do
 - https://www.kinder.com/kr/ko/kinder-joy-moving
+- https://www.baskinrobbins.co.kr/store/delivary.php
+- https://www.mave-official.com/profile
+- https://xdinaryheroes.com/
+- https://www.thinkthingthank.com/about
+- https://www.robotori.co.kr/v2/web/main/main.asp
+- http://farmer.hanbom.com/
 ```
 
 ```
