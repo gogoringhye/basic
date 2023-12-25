@@ -137,7 +137,15 @@
 ### 😍 애니메이션을 이용할 수 있는 3가지 방법
 
 ### ⭐aos.js(https://michalsnik.github.io/aos/)
+- 1. CDN SOURCES(CSS, JS)연결
 ```
+```
+- 2. INITIALIZE AOS
+<script>
+  AOS.init();
+</script>
+```
+
 ```
 
 ### ⭐Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
