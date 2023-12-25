@@ -258,8 +258,13 @@ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%E
 추구미
 - https://cyberfiction.io/
 - https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber/
-
-
+- https://www.lego.com/ko-kr/holiday-gifts
+- https://shop.mattel.com/pages/barbie
+- https://asia.sega.com/SonicSuperStars/kr/
+- https://www.nintendo.co.kr/switch/acbaa/index.html
+- https://www.dove.com/uk/home.html
+- https://www.johnsonsbaby.co.kr/
+```
 🦺 스크롤러 사이트 참조
 - https://codepen.io/isladjan/pen/abdyPBw
 - https://renaudrohlinger.com/
@@ -267,7 +272,7 @@ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%E
 - https://www.goal.com/story/nxgn2019en/
 - http://www.dementialab.org/discovery-lab/
 - https://www.creativebloq.com/web-design/parallax-scrolling-1131762
-``
+```
 
 ```
 1. 웹 에이전시(업무량 ⬆️, 대면 ⬆️)
