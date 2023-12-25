@@ -148,7 +148,7 @@
 3. 원하는 애니메이션 data-aos="" 긁어넣기
 
 
-
+```
 ### ⭐Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
 ```
 
