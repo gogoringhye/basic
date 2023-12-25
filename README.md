@@ -150,6 +150,7 @@
 ```
 
 ### ⭐Wow.js(https://wowjs.uk/docs.html)와 animate.css(https://animate.style/) 두 라이브러리를 함께 사용
+```
 
 ```
 - wow.js(는 애니메이션을 주는 것이 아니라 트리거를 돕는 역할을 함, 사이트에서 순서 확인) 
@@ -159,7 +160,6 @@
 2. wow cdn js(https://cdnjs.com/libraries/wow)에서 js 링크 긁어오기 
 
 3. wow docs에서 script 긁어오기
-
 ```
 
 ```
@@ -184,18 +184,14 @@ data-wow-iteration: Number of times the animation is repeated
 ```
 
 ```
-
 - animate.css
-
 
 "Animate.css" 라이브러리의 구조 및 작동 방식
 
 --> animate__animated -- 요소에 애니메이션을 적용, animate__bounce -- 특정 애니메이션 효과를 정의(Installation and Usage -- Basic usage 가서 확인 가능함)
-
 ```
 
 ### ⭐jQuery Scrolla
-
 ```
 1. jQuery Scrolla(https://maximzhurkin.github.io/jquery-scrolla/)에서 순서 확인
   
