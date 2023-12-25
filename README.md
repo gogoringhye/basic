@@ -140,8 +140,9 @@
 1. CDN SOURCES(CSS, JS)연결
 ```
 
-```
+
 2. INITIALIZE AOS
+```
 <script>
   AOS.init();
 </script>
