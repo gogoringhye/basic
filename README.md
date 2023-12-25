@@ -139,6 +139,12 @@
 ### ⭐aos.js(https://michalsnik.github.io/aos/)
 
 1. CDN SOURCES(CSS, JS)연결
+```
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+```
+```
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+```
 2. INITIALIZE AOS
 ```
 <script>
