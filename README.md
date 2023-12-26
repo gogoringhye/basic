@@ -284,7 +284,7 @@ console.log(imageUrls.join('\n'));
 주소창에 localhost 쳤을 때 이 화면이 뜨면 성공적으로 설치된 것임
 ![image](https://github.com/gogoringhye/basic/assets/145514996/9bb9f1bd-379a-431e-ab83-55b3a1983b70)
 
-
+사용하지 않을때는 stop 해둬야 쓸데없는 용량을 차지하지 않음
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 1. 리모트 사이트(/html 부분에 호스트 적어주기)
