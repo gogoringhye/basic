@@ -47,9 +47,6 @@
 🖤 https://codepen.io/Roxey/pen/oZrRZN
 
 🖤 rgbKineticSlider(codepen demo에 있는 유형, github), https://github.com/hmongouachon/rgbKineticSlider
-
-🖤 XAMPP
-
 ```
 
 ```
@@ -279,6 +276,7 @@ console.log(imageUrls.join('\n'));
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔎 php
+🖤 XAMPP(통합에디터)
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 1. 리모트 사이트(/html 부분에 호스트 적어주기)
