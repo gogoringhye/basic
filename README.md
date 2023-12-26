@@ -360,9 +360,7 @@ har.log.entries.forEach(function (entry) {
 });
 console.log(imageUrls.join('\n'));
 ```
-![image](https://github.com/gogoringhye/all-images/assets/145514996/5f2715ad-39b1-4204-8b88-634e48e8c5b2)
-
-
+![image](https://github.com/gogoringhye/basic/assets/145514996/812f5b20-cd68-4fef-9bca-1751ed42d4dc)
 
 
 
