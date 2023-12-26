@@ -278,7 +278,8 @@ console.log(imageUrls.join('\n'));
 🔎 php
 
 🖤 XAMPP(통합에디터)
-![image](https://github.com/gogoringhye/basic/assets/145514996/b0e44343-b451-445e-a16d-e3b5297da6b6)
+# ![image](https://github.com/gogoringhye/basic/assets/145514996/b0e44343-b451-445e-a16d-e3b5297da6b6)
+# ![image](https://github.com/gogoringhye/basic/assets/145514996/59e64742-2e69-47e8-8147-274f3db5956e)
 
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
