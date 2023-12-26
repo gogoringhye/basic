@@ -278,6 +278,8 @@ console.log(imageUrls.join('\n'));
 🔎 php
 
 🖤 XAMPP(통합에디터)
+![image](https://github.com/gogoringhye/basic/assets/145514996/b0e44343-b451-445e-a16d-e3b5297da6b6)
+
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 1. 리모트 사이트(/html 부분에 호스트 적어주기)
