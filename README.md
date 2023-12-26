@@ -281,7 +281,7 @@ console.log(imageUrls.join('\n'));
 # ![image](https://github.com/gogoringhye/basic/assets/145514996/b0e44343-b451-445e-a16d-e3b5297da6b6)
 # ![image](https://github.com/gogoringhye/basic/assets/145514996/59e64742-2e69-47e8-8147-274f3db5956e)
 
-주소창에 localhost 쳤을 때 이 화면이 뜨면 설치가 성공적으로 된 것임
+주소창에 localhost 쳤을 때 이 화면이 뜨면 성공적으로 설치된 것임
 ![image](https://github.com/gogoringhye/basic/assets/145514996/9bb9f1bd-379a-431e-ab83-55b3a1983b70)
 
 
