@@ -281,6 +281,10 @@ console.log(imageUrls.join('\n'));
 # ![image](https://github.com/gogoringhye/basic/assets/145514996/b0e44343-b451-445e-a16d-e3b5297da6b6)
 # ![image](https://github.com/gogoringhye/basic/assets/145514996/59e64742-2e69-47e8-8147-274f3db5956e)
 
+주소창에 localhost 쳤을 때 이 화면이 뜨면 설치가 성공적으로 된 것임
+![image](https://github.com/gogoringhye/basic/assets/145514996/9bb9f1bd-379a-431e-ab83-55b3a1983b70)
+
+
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 1. 리모트 사이트(/html 부분에 호스트 적어주기)
