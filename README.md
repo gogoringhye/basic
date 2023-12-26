@@ -340,11 +340,10 @@ f1➡ftp setting
 
 
 
-사이트 이미지 다운 방법
+🎞 사이트 이미지 다운 방법
 
 https://cyberfiction.io/
-
-# 개발자 -- NEtwork -- img -- 우클릭 -- copy all as HAR -- var har 함수 적고 복붙 -- 오류나면 선생님이 보내주신 내용 복붙 
+# 개발자 ➡ NEtwork ➡ img ➡ 우클릭, copy all as HAR ➡ 복사한 것을 콘솔에 붙여넣고 var har 함수 적가 -- 그 뒤에 선생님이 보내주신 내용 복붙하기 
 
 # 이미지의 갯수가 작게 나오면 새로고침하면 이미지가 로드된다.
 ![제목 없음](https://github.com/gogoringhye/all-images/assets/145514996/d0e5d968-5bfb-4845-87a0-ff0f405a3321)
@@ -365,7 +364,6 @@ har.log.entries.forEach(function (entry) {
   imageUrls.push(entry.request.url);
 });
 console.log(imageUrls.join('\n'));
-
 ```
 ![image](https://github.com/gogoringhye/all-images/assets/145514996/5f2715ad-39b1-4204-8b88-634e48e8c5b2)
 
