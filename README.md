@@ -48,6 +48,8 @@
 
 🖤 rgbKineticSlider(codepen demo에 있는 유형, github), https://github.com/hmongouachon/rgbKineticSlider
 
+🖤 XAMPP
+
 ```
 
 ```
