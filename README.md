@@ -417,7 +417,7 @@ f1➡ftp setting
 
 
 
-
+sugang7979.dothome.co.kr/php/webstandard/index.php
 
 
 
