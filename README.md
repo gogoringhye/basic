@@ -279,6 +279,11 @@ console.log(imageUrls.join('\n'));
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔎 php
+```
+filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
+1. 리모트 사이트(/html 부분에 호스트 적어주기)
+2. 
+```
 
 🔎 MySQL(https://dev.mysql.com/downloads/file/?id=523567) 설치 방법 🔽
 - 확인 후 체크하기
@@ -418,8 +423,6 @@ f1➡ftp setting
 
 
 
-
-sugang7979.dothome.co.kr/php/webstandard/index.php
 
 
 
