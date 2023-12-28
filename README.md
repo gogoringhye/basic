@@ -381,3 +381,15 @@ f1➡ftp setting
 ![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
 
 ### CSS Script: Free JavaScript / CSS / CSS3
+
+
+
+
+
+
+
+
+
+https://www2.mejiro.ac.jp/univ/mejinavi2023/
+
+https://www.nintendo.com/jp/switch/aqmxa/index.html
