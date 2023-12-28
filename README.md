@@ -313,7 +313,7 @@ http://localhost/basic/member/mem_form.php
 🖤 awwwards(시안 참조)
 🖤 Codrops(lenis, react 기반, 소스가 공개되어 있어서 참조하기 매우 좋은 사이트임)
 🖤 gdweb
-🖤 behance
+🖤 uplabs
 https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/
 ```
 
