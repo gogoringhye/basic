@@ -288,7 +288,9 @@ console.log(imageUrls.join('\n'));
 ```
 filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 1. 리모트 사이트(/html 부분에 호스트 적어주기)
-2. 
+2.
+
+http://localhost/basic/member/mem_form.php
 ```
 
 🔎 MySQL(https://dev.mysql.com/downloads/file/?id=523567) 설치 방법 🔽
@@ -379,63 +381,3 @@ f1➡ftp setting
 ![image](https://github.com/gogoringhye/basic/assets/145514996/4443e0ee-7a10-4911-8040-852f7f1dade2)
 
 ### CSS Script: Free JavaScript / CSS / CSS3
-
-
-
-
-
-http://localhost/basic/member/mem_form.php
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
