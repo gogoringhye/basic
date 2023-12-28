@@ -384,6 +384,8 @@ f1➡ftp setting
 
 
 
+http://localhost/basic/member/mem_form.php
+
 
 
 
