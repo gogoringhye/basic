@@ -393,3 +393,11 @@ f1➡ftp setting
 https://www2.mejiro.ac.jp/univ/mejinavi2023/
 
 https://www.nintendo.com/jp/switch/aqmxa/index.html
+
+
+
+
+![image](https://github.com/gogoringhye/basic/assets/145514996/0b747b8d-b9c1-447b-a8f1-15d3b5653481)
+![image](https://github.com/gogoringhye/basic/assets/145514996/6e8036e0-f3b6-4397-81c1-893dd8aef4cc)
+
+
