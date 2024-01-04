@@ -293,6 +293,25 @@ filezill(sugang7979.dothome.co.kr/php/webstandard/index.php)
 http://localhost/basic/member/mem_form.php
 ```
 
+![image](https://github.com/gogoringhye/basic/assets/145514996/1dad50d6-35bf-4559-9f16-e46e7644b545)
+
+```
+-- http://localhost/phpmyadmin
+
+-- id :root
+-- password: 없음
+
+create table web.freeboard (
+   num int not null auto_increment,
+   name char(20) not null,
+   pass char(20) not null,    
+   subject char(200) not null,
+   content text,
+   regist_day char(20),
+   primary key(num)
+);
+```
+
 🔎 MySQL(https://dev.mysql.com/downloads/file/?id=523567) 설치 방법 🔽
 - 확인 후 체크하기
 ![image](https://github.com/gogoringhye/basic/assets/145514996/872b9006-1d4f-435f-82c4-4cbf9bc01056)
@@ -412,5 +431,5 @@ https://www.nintendo.com/jp/switch/aqmxa/index.html
 
 
 
-![image](https://github.com/gogoringhye/basic/assets/145514996/1dad50d6-35bf-4559-9f16-e46e7644b545)
+
 
