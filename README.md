@@ -47,6 +47,8 @@
 🖤 https://codepen.io/Roxey/pen/oZrRZN
 
 🖤 rgbKineticSlider(codepen demo에 있는 유형, github), https://github.com/hmongouachon/rgbKineticSlider
+
+🖤 clip-path generator(https://bennettfeely.com/clippy/)
 ```
 
 ```
