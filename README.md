@@ -427,7 +427,8 @@ https://www.nintendo.com/jp/switch/aqmxa/index.html
 
 
 
-
+확장 프로그램(캡처)
+![image](https://github.com/gogoringhye/basic/assets/145514996/5369697e-a2ac-47aa-af71-589226b5fe43)
 
 
 
