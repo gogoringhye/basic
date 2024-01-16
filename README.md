@@ -415,7 +415,9 @@ f1➡ftp setting
 
 
 
-
+### reat 주소
+http://localhost/web/freeboard/form.php
+http://localhost/phpmyadmin/
 
 
 https://www2.mejiro.ac.jp/univ/mejinavi2023/
