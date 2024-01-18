@@ -54,7 +54,7 @@
 
 🖤 chart.js
 
-🖤My JSON Server
+🖤 My JSON Server
 ```
 
 ```
